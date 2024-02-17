@@ -1,5 +1,8 @@
 # Interacting-with-the-Gemini-Pro-Model-via-API
 
+## About
+Using node js programming language
+
 ### Clone the Repository
 ```git
 git clone https://github.com/AjibFirdaus/Interacting-with-the-Gemini-Pro-Model-via-API.git
